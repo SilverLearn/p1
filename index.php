@@ -11,7 +11,7 @@ class hadse_horoof
     {
         $this->MasterMethod($count);
         return sprintf(
-            'String %s %s %s%s', $this->verb, $this->number, $candidate, $this->pluralModifier
+            'There %s %s %s%s', $this->verb, $this->number, $candidate, $this->pluralModifier
         );
     }
 
