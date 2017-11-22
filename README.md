@@ -1,4 +1,4 @@
-DRY(Don’t Repeat Yourself)
+DRY(Don’t Repeat Yourself)</br>
 اصل YAGNI بیان می‌کند که شما باید هر چیزی را وقتی پیاده سازی کنید که واقعاً به آن نیاز دارید و نه وقتی که می‌فهمید در آینده ممکن است به آن نیازمند شوید.
 
 srp -> A class should have one and only one reason to change, meaning that a class should have only one job.
